@@ -1,0 +1,25 @@
+h1{ color: #A22F0A;}
+h2{ color: #CD104D;}
+h3{ color: #256D85;}
+h4{ color: #7895B2;}
+h5{ color: #FCFFB2;}
+h6{ color: #251B37;}
+p{ color:  #FF9494;}
+body {
+	background-color: #A3D2CA;
+	color: #555555;
+	font-family: Ariel, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.6em;
+	margin: 0px;
+	}
+.box-1 {
+	background-color: #430707;
+	color: #000000;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+}
